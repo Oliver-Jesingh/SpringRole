@@ -1,0 +1,20 @@
+.card-wrapper {
+  padding: 20px;
+  .card-icon {
+    padding: 3px 10px 10px 0px;
+    height: 150px;
+  }
+  .card-heading {
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 1;
+    letter-spacing: 1px;
+  }
+  .card-description {
+    font-size: 19px;
+    letter-spacing: 0.6px;
+    @media only screen and (max-width: 767px) {
+      font-size: 17px;
+    }
+  }
+}

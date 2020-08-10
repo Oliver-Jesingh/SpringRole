@@ -1,0 +1,30 @@
+#benefits-wrapper {
+  h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    @media only screen and (max-width: 767px) {
+      font-size: 2rem;
+    }
+  }
+  th {
+    font-size: 25px;
+    color: #8d46e9;
+    font-weight: bold;
+    border-top: none;
+    border-bottom: 1px solid #bfbfbf;
+    padding: 25px 0px 25px 0px;
+    @media only screen and (max-width: 767px) {
+      font-size: 19px;
+    }
+  }
+  td {
+    font-size: 22px;
+    font-weight: bold;
+    border-top: 1px solid #bfbfbf;
+    padding: 25px 3em 25px 0px;
+    @media only screen and (max-width: 767px) {
+      padding: 0.75rem 0.75rem 0.75rem 0px;
+      font-size: 16px;
+    }
+  }
+}
