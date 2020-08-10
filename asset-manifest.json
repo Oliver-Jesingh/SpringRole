@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SpringRole/static/css/main.0275df9c.chunk.css",
+    "main.js": "/SpringRole/static/js/main.8f623ec7.chunk.js",
+    "main.js.map": "/SpringRole/static/js/main.8f623ec7.chunk.js.map",
+    "runtime-main.js": "/SpringRole/static/js/runtime-main.55f0173b.js",
+    "runtime-main.js.map": "/SpringRole/static/js/runtime-main.55f0173b.js.map",
+    "static/css/2.11829350.chunk.css": "/SpringRole/static/css/2.11829350.chunk.css",
+    "static/js/2.f3e3395a.chunk.js": "/SpringRole/static/js/2.f3e3395a.chunk.js",
+    "static/js/2.f3e3395a.chunk.js.map": "/SpringRole/static/js/2.f3e3395a.chunk.js.map",
+    "index.html": "/SpringRole/index.html",
+    "precache-manifest.d5f2fed92c73cf1f21f815faf4be4a2a.js": "/SpringRole/precache-manifest.d5f2fed92c73cf1f21f815faf4be4a2a.js",
+    "service-worker.js": "/SpringRole/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/SpringRole/static/css/2.11829350.chunk.css.map",
+    "static/css/main.0275df9c.chunk.css.map": "/SpringRole/static/css/main.0275df9c.chunk.css.map",
+    "static/js/2.f3e3395a.chunk.js.LICENSE.txt": "/SpringRole/static/js/2.f3e3395a.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/SpringRole/static/media/header-image.43505c2c.jpg",
+    "static/media/work1.svg": "/SpringRole/static/media/work1.03b4c52b.svg",
+    "static/media/work2.svg": "/SpringRole/static/media/work2.c46a91d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f0173b.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f3e3395a.chunk.js",
+    "static/css/main.0275df9c.chunk.css",
+    "static/js/main.8f623ec7.chunk.js"
+  ]
+}
